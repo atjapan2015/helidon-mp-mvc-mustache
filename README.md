@@ -1,5 +1,5 @@
 
-# Helidon Freemarker MP Example
+# Helidon Mustache MP Example
 
 This example implements a simple Hello World Web Application using Helidon + MicroProfile + Mustache
 
